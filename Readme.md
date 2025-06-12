@@ -1,6 +1,6 @@
 # Hi there, I'm Dhrumil! 👋
 
-Welcome to my GitHub profile! I am a passionate **AI/ML Developer** and **Computer Vision Enthusiast** with a strong foundation in **Deep Learning**, **Python**, **Computer Vision**, and **Natural Language Processing**. I enjoy working on projects that solve real-world problems using cutting-edge AI technologies. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects. I am currently a **Research Intern** at **ISRO's Space Application Centre**.
+Welcome to my GitHub profile! I am a passionate **AI/ML Developer** and **Computer Vision Enthusiast** with a strong foundation in **Deep Learning**, **Python**, **Computer Vision**, and **Natural Language Processing**. I enjoy working on projects that solve real-world problems using cutting-edge AI technologies. I'm always looking for opportunities to learn and collaborate on exciting and impactful projects. I have recently completed **Research Internship** at **ISRO's Space Application Centre**.
 
 ## 🚀 About Me
 
@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I am a passionate **AI/ML Developer** and **Comput
 - **Cloud & Deployment**: Google Colab, ngrok
 
 ## 🔥 Featured Projects
-
-### 🛰️ [**Satellite Land Cover Change Detection**]()
-- Developed a sophisticated **deep learning pipeline** using **U-Net architecture with ResNet-34 backbone** for semantic segmentation
-- Trained on **OSCD dataset** and adapted to **Sentinel-2 Level-1C** satellite imagery for Ahmedabad region analysis
-- Implemented **preprocessing pipelines** for RGB bands, GeoTIFF conversion, and data normalization
 
 ### ☀️ [**RoofTop Solar Panel Detection**]()
 - Built a **computer vision solution** using **CNNs** to detect rooftop solar panels from satellite imagery
