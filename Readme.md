@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a passionate **AI/ML Developer** and **Comput
 
 ## 🔥 Featured Projects
 
-### ☀️ [**RoofTop Solar Panel Detection**]()
+### ☀️ [**RoofTop Solar Panel Detection**](https://github.com/DhrumilPrajapati03/RoofTop-Solar-Panel-Detection-using-Deep-Learning-)
 - Built a **computer vision solution** using **CNNs** to detect rooftop solar panels from satellite imagery
 - Contributed to **sustainable energy initiatives** through automated solar panel mapping
 - Utilized **deep learning techniques** for image classification and segmentation tasks
