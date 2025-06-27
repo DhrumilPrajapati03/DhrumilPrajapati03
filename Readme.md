@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a passionate **AI/ML Developer** and **Comput
 - Contributed to **sustainable energy initiatives** through automated solar panel mapping
 - Utilized **deep learning techniques** for image classification and segmentation tasks
 
-### 🤖 [**AI-Powered LinkedIn Post Generator**]()
+### 🤖 [**AI-Powered LinkedIn Post Generator**](https://github.com/DhrumilPrajapati03/Linkedin-post-generator)
 - Created an intelligent content generation tool using **Groq API** and **advanced prompt engineering**
 - Implemented **secure local server tunneling** with ngrok for seamless deployment
 - Designed for professionals to enhance their LinkedIn presence with contextually relevant content
